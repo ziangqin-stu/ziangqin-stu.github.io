@@ -1,14 +1,16 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Ziang Qin
+description: Ziang Qin's Personal Pages
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Ziang Qin
+user_description:  I am a current computer science master student at USC, will graduate in May 2020. I am now positively seeking for research (training) opportunity in deep learning, machine learning field. <br>
+          I prepared for a full-time Software Developer Engineer in past semesters, and I am qualified for entry-level SDE tasks. <br>
+          I have a basic understanding of AI and machine learning. I took several related courses during my master's degree, including "AI Foundation", "Machine Learning" and "Deep Learning", in which I most interested in applied deep learning.
+user_title: CS Master Student at USC
+email: ziangqin.stu@gmail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
